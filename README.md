@@ -15,4 +15,4 @@ The model used is from this [research paper](https://github.com/oarriaga/face_cl
 
 * Convolutional Neural Network (CNN) deep learning architecture is from this [research paper](https://github.com/oarriaga/face_classification/blob/master/report.pdf).
 * Pretrained Keras model and much of the OpenCV code provided by GitHub user [oarriaga](https://github.com/oarriaga).
-* Printing code provided by [Tim Golden] (http://timgolden.me.uk/python/win32_how_do_i/print.html)
+* Printing code provided by [Tim Golden](http://timgolden.me.uk/python/win32_how_do_i/print.html)
